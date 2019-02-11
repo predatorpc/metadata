@@ -1,0 +1,3 @@
+[submodule "vendor/smi2/phpclickhouse"]
+	path = vendor/smi2/phpclickhouse
+	url = https://github.com/smi2/phpClickHouse.git
